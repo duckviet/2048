@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_me">Click me</string>
+    <string name="title">CSE1/4</string>
+    <string name="small_text">GAME</string>
+    <string name="start_button">Get Started</string>
+    <string name="login_text">LOG IN</string>
+    <string name="login_button">Log In</string>
+    <string name="get_started">Get Started</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">LOG IN</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="game_name">2048</string>
+    <string name="login_label">LOG IN</string>
+    <string name="username">Username</string>
+    <string name="remember_button">Remember me</string>
+    <string name="sign_up_here">Don\'t have account? <b><i>Sign up here</i></b></string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="verify_passwd">Verify Password</string>
+    <string name="register">REGISTER</string>
+    <string name="log_in_here">Already have account? <b><i>Log in here</i></b></string>
+    <string name="mygames">My\nGames</string>
+    <string name="instruction">Sliding tile\npuzzle to play!</string>
+    <string name="confirm">Confirm</string>
+    <string name="select_language">Select your Language</string>
+    <string name="log_out">Log out</string>
+    <string name="back_button">Back button</string>
+    <string name="blank">" "</string>
+    <string name="new_game">New Game</string>
+    <string name="winner_toast_message">You win! </string>
+    <string name="lose_toast_message">You lose! Try again</string>
+    <string name="personal_best_toast_message">Best score!</string>
+    <string name="description_2048">a single-player sliding title puzzle video game</string>
+    <string name="my_games">My\ngames</string>
+    <string name="play">Play game</string>
+    <string name="game_data_preference_key">2048</string>
+    <string name="game_data_highest_score_int_key">2048</string>
+
+    <string name="shuffle">Mieszaj</string>
+    <string name="reset">Resetuj</string>
+    <string name="or">Lub</string>
+    <string name="choose_image">Wybierz obrazek:</string>
+
+    <string-array name="languages_array">
+        <item>VN (Vietnam)</item>
+        <item>USA (United States)</item>
+        <item>CHINA (China)</item>
+    </string-array>
+</resources>
